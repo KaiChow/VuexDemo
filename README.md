@@ -1,7 +1,7 @@
 # VuexDemo
 ##vuex入门学习demo
 
-###1，首先clone地址
+###1,首先clone地址
 
 ###2,npm install
 
