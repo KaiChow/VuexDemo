@@ -1,9 +1,9 @@
 # VuexDemo
 ##vuex入门学习demo
 
-###首先clone地址
+###1，首先clone地址
 
-###npm install
+###2,npm install
 
-###npm run dev 运行即可
+###3,npm run dev 运行即可
 
