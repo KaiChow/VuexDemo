@@ -9,9 +9,7 @@
 <script>
 export default {
     components: {},
-    props: {
-        id: Number
-    },
+    props: ['id'],
     data() {
         return {
             param: this.$route.params.id

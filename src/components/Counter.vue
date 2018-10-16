@@ -37,7 +37,8 @@ export default {
 
     computed: mapGetters([
         'evenOrOdd',
-        'name'
+        'name',
+        'other'
     ]),
     methods: mapActions([
         'increment',
