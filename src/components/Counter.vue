@@ -14,7 +14,7 @@
         <button @click="incrementIfOdd">Increment if odd</button>
         <button @click="incrementAsync">Increment async</button>
     </div>
-    
+    <p> <router-link to="/user">Go to user</router-link></p>
 
 </div>
 </template>
